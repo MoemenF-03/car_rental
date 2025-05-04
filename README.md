@@ -1,4 +1,11 @@
 # Car Rental Management System
+![Status](https://img.shields.io/badge/Status-Academic%20Project-brightgreen)
+![PHP](https://img.shields.io/badge/PHP-Core-777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-Database-005C84)
+![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-7952B3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E)
 
 A complete **Car Rental Management System** developed in PHP and MySQL. This web application allows users to rent cars, view available vehicles, and manage bookings. The admin can manage car listings, rental details, and view booking history.
 **this project is an academic project for WEB DEV**
